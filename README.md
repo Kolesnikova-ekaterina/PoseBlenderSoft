@@ -28,4 +28,4 @@ Preferences -> Add-ons -> Install from Disk
 |--|--|
 | ![Фигуристка](images/1_400x300.jpg) | ![Результат 1](images/result2.jpg) |
 | ![Танцовщица](images/balet.png) | ![Результат 2](images/result1.jpg) |
-| ![Стоковое движение](images/stock_video.gif) | ![Результат анимация](images/result3.gif) |
+| ![Стоковое движение](images/stock_video1.gif) | ![Результат анимация](images/result3.gif) |
